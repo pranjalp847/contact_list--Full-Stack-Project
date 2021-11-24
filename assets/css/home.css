@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    border: 2px solid black;
+    width: 400px;
+    position: relative;
+    top: 5%;
+    left: 35%;
+}
+
+#list-border{
+    border: 2px solid red;
+}
+
+
+.form{
+    border: 2px solid blueviolet;
+}
+
+.fas fa-address-book{
+    font-size: 25px;
+}
